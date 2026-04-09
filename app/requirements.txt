@@ -1,1 +1,6 @@
 streamlit
+pandas
+pyarrow
+requests
+altair
+pyiceberg[s3fs]
